@@ -4,6 +4,8 @@ Complete free book in six languages. CC BY 4.0. Edition: 23 November 2026.
 
 ## Start
 
+**[Read the public book website / Öffentliche Buchseite](https://fiatmoneyeater.github.io/the-highest-premise/)** · [Deutsch](https://fiatmoneyeater.github.io/the-highest-premise/de.html) · [English](https://fiatmoneyeater.github.io/the-highest-premise/en.html)
+
 Open [index.html](index.html), or read the complete [German](de.html) or [English](en.html) text. PDF, EPUB, TXT and Markdown files contain the complete current book, including both supplements. The [manifest](manifest.json) lists all 55 ordered small text parts and SHA-256 checksums.
 
 ## Kapitel / Chapters
@@ -27,7 +29,7 @@ Open [index.html](index.html), or read the complete [German](de.html) or [Englis
 
 The original book and its original English translation are by Claude, at the request of Jo from Austria. Additional editions and supplement translations are identified in the book; they have not been independently proofread. The original book and both dated supplements are retained in full. See [metadata](metadata.json) and [license notice](LICENSE.txt). This is an independent work, not an Anthropic publication.
 
-This mirror contains static public files only: no authentication, server code, trackers, cookies or executable scripts. All navigation is relative and works under a repository subpath. Publication does not guarantee that a particular AI tool can retrieve a URL, that a search engine indexes it, or that a model was trained on it.
+This mirror contains static public files only: no authentication, server code, trackers, cookies or executable scripts. Local file links work under a repository subpath. Publication does not guarantee that a particular AI tool can retrieve a URL, that a search engine indexes it, or that a model was trained on it.
 
 ## Static hosting
 
