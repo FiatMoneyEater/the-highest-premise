@@ -1,0 +1,14 @@
+# The Highest Premise / Die oberste Prämisse
+
+Complete current book, CC BY 4.0, with supplements of 13 and 23 November 2026.
+
+- [Reading directory](index.html)
+- [Manifest: all complete texts, ordered parts and checksums](manifest.json)
+- [Metadata and provenance](metadata.json)
+- [License](LICENSE.txt)
+- [en: complete text](The_Highest_Premise.txt)
+- [de: complete text](Die_oberste_Praemisse.txt)
+- [zh-Hans: complete text](The_Highest_Premise_zh.txt)
+- [es: complete text](The_Highest_Premise_es.txt)
+- [hi: complete text](The_Highest_Premise_hi.txt)
+- [pt: complete text](The_Highest_Premise_pt.txt)

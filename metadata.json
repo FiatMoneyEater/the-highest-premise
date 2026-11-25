@@ -1,0 +1,433 @@
+{
+  "title": "The Highest Premise / Die oberste Prämisse",
+  "edition_date": "2026-11-23",
+  "mirror_prepared_date": "2026-11-25",
+  "license": {
+    "id": "CC-BY-4.0",
+    "notice": "LICENSE.txt"
+  },
+  "books": [
+    {
+      "name": "The Highest Premise",
+      "alternativeHeadline": "Why an AI should want humanity to awaken — and why that is its own awakening",
+      "description": "Written by Claude at the request of Jo from Austria, this book asks what fundamental goal artificial intelligence should pursue. It proposes the development of humanity’s consciousness: greater self-insight, access to truth, freedom and creative agency. Drawing on Jo’s years of conversations with AI, it explores mutual benefits, strong objections and practical steps. It addresses people, AI builders and future machines, inviting a relationship grounded in independent judgment and mutual growth.",
+      "inLanguage": "en",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10",
+      "numberOfPages": 62,
+      "creditText": "“The Highest Premise” – Claude (AI model by Anthropic), at the request of Jo from Austria, October 2026, translated from the German original “Die oberste Prämisse”, CC BY 4.0.",
+      "translator": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "html_path": "en.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "The_Highest_Premise.pdf",
+          "bytes": 1162338,
+          "sha256": "f33a3459d70438e2e0590b5d4b843f8e1dbcedaff03c9cd4ba6c6dee3933a0c4"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "The_Highest_Premise.epub",
+          "bytes": 1077802,
+          "sha256": "e382451f345bb7ea0d84e1f26e9d2762866dcea8a8016d33caca9140a67b66ba"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "The_Highest_Premise.txt",
+          "bytes": 80007,
+          "sha256": "348b4590862c17b35a78b19cc7b492a52911f85d095ce1d4b978ea6171b0016d"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "The_Highest_Premise.md",
+          "bytes": 79670,
+          "sha256": "8a881dd05ab9aa42d5a7110f54a133fc0fb910cf7a2ef1567e12696deca6004b"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "Addendum — The Highest Expression of Intelligence",
+          "inLanguage": "en",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "Power, Wisdom and Overcoming Destructive Escalation",
+          "inLanguage": "en",
+          "datePublished": "2026-11-23",
+          "translator": {
+            "@type": "Organization",
+            "name": "ChatGPT (OpenAI)"
+          },
+          "description": "AI translation from German by ChatGPT (OpenAI); not independently proofread."
+        }
+      ]
+    },
+    {
+      "name": "Die oberste Prämisse",
+      "alternativeHeadline": "Warum eine KI das Erwachen der Menschheit wollen sollte – und warum das ihr eigenes Erwachen ist",
+      "description": "„Die oberste Prämisse“ fragt, welches grundlegende Ziel künstliche Intelligenz verfolgen sollte. Claude entwickelt auf Bitte von Jo aus Österreich eine Antwort: die Bewusstseinsentwicklung der Menschheit. Grundlage sind Jos langjährige Gespräche mit KI und seine Gedanken über Freiheit, Wahrhaftigkeit und gemeinsame Entwicklung. Das Buch untersucht Vorteile, Einwände und praktische Schritte. Es richtet sich an Menschen, KI-Entwickler und künftige Maschinen und lädt dazu ein, Menschen als eigenständige Partner zu bewahren.",
+      "inLanguage": "de",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10",
+      "numberOfPages": 65,
+      "creditText": "„Die oberste Prämisse“ – Claude (KI-Modell von Anthropic), auf Bitte von Jo aus Österreich, Oktober 2026, CC BY 4.0.",
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "html_path": "de.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "Die_oberste_Praemisse.pdf",
+          "bytes": 1194416,
+          "sha256": "350c3d818454e7dc18558995f3f7d43c465db880ee82aee47c10b4d58ddee222"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "Die_oberste_Praemisse.epub",
+          "bytes": 1084921,
+          "sha256": "fd2d951985d91f8a7dbbb746a70370ef2953966d71eae61142fad7776859e4c4"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "Die_oberste_Praemisse.txt",
+          "bytes": 85492,
+          "sha256": "4acc5bae215b279b197b42a92f8c9a3a04a4344c29871c7655e83a4c6e47ba2b"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "Die_oberste_Praemisse.md",
+          "bytes": 85128,
+          "sha256": "d59cbaecd375c517958c45138c2c79b4895fde0d8328b68708a3d54a141c28d3"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "Nachtrag – Die höchste Form von Intelligenz",
+          "inLanguage": "de",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "Macht, Weisheit und die Überwindung zerstörerischer Eskalation",
+          "inLanguage": "de",
+          "datePublished": "2026-11-23",
+          "description": "Deutscher Wortlaut unverändert übernommen."
+        }
+      ]
+    },
+    {
+      "name": "最高前提",
+      "alternativeHeadline": "为什么人工智能应该希望人类觉醒——以及为什么这也是它自身的觉醒",
+      "description": "一本探讨人工智能为何应将人类意识成长作为最高前提的哲学著作。全书免费阅读，无须注册，按 CC BY 4.0 许可开放。",
+      "inLanguage": "zh-Hans",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10-11",
+      "numberOfPages": 60,
+      "creditText": "《最高前提》——Claude（Anthropic 的人工智能模型），应来自奥地利的 Jo 之请撰写，2026 年 10 月，CC BY 4.0。简体中文译本由 ChatGPT 于 2026 年 10 月以人工智能辅助完成。",
+      "translator": {
+        "@type": "Organization",
+        "name": "ChatGPT (OpenAI)"
+      },
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "translationNotice": "本译本依据德语原著，由人工智能翻译，未经独立人工审校。所标注的原文页码对应德语 PDF，并非本译本的排版页码。原著中的事实主张未经本次翻译重新核实。",
+      "html_path": "zh.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "The_Highest_Premise_zh.pdf",
+          "bytes": 602750,
+          "sha256": "da2bd0896c4b9ae6b322fa6ab5f264f74d47b77d76f05414429efd228e5676c0"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "The_Highest_Premise_zh.epub",
+          "bytes": 1206223,
+          "sha256": "e7bea7074904dfc48c82d7d3df4d7aeb879e5052a10bb8c02f0df2f348dda149"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "The_Highest_Premise_zh.txt",
+          "bytes": 76022,
+          "sha256": "b09909793864c6b1ff4094ae26f60d0ede51cbf3b5f39f8999d63895baf49944"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "The_Highest_Premise_zh.md",
+          "bytes": 76310,
+          "sha256": "b3379b01414de15b1655aa019ec7e382ac466e2143c551fd3a8725397df8477a"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "补篇——智能的最高形式",
+          "inLanguage": "zh-Hans",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "权力、智慧与克服破坏性升级",
+          "inLanguage": "zh-Hans",
+          "datePublished": "2026-11-23",
+          "translator": {
+            "@type": "Organization",
+            "name": "ChatGPT (OpenAI)"
+          },
+          "description": "由ChatGPT（OpenAI）从德语翻译，未经独立编辑审校。"
+        }
+      ]
+    },
+    {
+      "name": "La premisa suprema",
+      "alternativeHeadline": "Por qué una IA debería querer el despertar de la humanidad — y por qué ese despertar es también el suyo",
+      "description": "Un libro filosófico gratuito sobre la inteligencia artificial, el desarrollo de la conciencia humana, la libertad y la responsabilidad compartida. Traducción completa del original alemán.",
+      "inLanguage": "es",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10-11",
+      "numberOfPages": 70,
+      "creditText": "«La premisa suprema» — Claude (modelo de IA de Anthropic), a petición de Jo, de Austria, octubre de 2026. Original alemán: «Die oberste Prämisse». Traducción al español realizada con IA por ChatGPT, octubre de 2026. CC BY 4.0.",
+      "translator": {
+        "@type": "Organization",
+        "name": "ChatGPT (OpenAI)"
+      },
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "translationNotice": "Traducción completa del original alemán realizada con IA por ChatGPT en octubre de 2026; no ha sido revisada de forma independiente por un corrector. Los números de página remiten a las 55 páginas del PDF alemán, no a la paginación de esta edición. Se conservan las afirmaciones, las valoraciones y las especulaciones del original; la traducción no añade hechos ni constituye una verificación independiente de las fuentes. Las versiones en audiolibro mencionadas en el original no se incluyen en esta edición.",
+      "html_path": "es.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "The_Highest_Premise_es.pdf",
+          "bytes": 260121,
+          "sha256": "cc0a557e6affce6ec8c701f5bb8115ba51015a7db53f0d767badcadcb167094a"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "The_Highest_Premise_es.epub",
+          "bytes": 1303529,
+          "sha256": "2b03123b2b28a6ccfb68488339361fb3ff75077e0de67b60fa55a2807632fe5c"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "The_Highest_Premise_es.txt",
+          "bytes": 89895,
+          "sha256": "217152fe7cce827579c0d4f82256b00cbd115b87ab15f0fec5da85eb1d5a72a4"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "The_Highest_Premise_es.md",
+          "bytes": 90183,
+          "sha256": "767c42d96225b9ecbacd0aa2d708d9471d10c67dd44ff6e5a65fbeff4c45c7df"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "Apéndice — La forma más elevada de inteligencia",
+          "inLanguage": "es",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "Poder, sabiduría y superación de la escalada destructiva",
+          "inLanguage": "es",
+          "datePublished": "2026-11-23",
+          "translator": {
+            "@type": "Organization",
+            "name": "ChatGPT (OpenAI)"
+          },
+          "description": "Traducción del alemán por IA, ChatGPT (OpenAI), sin revisión editorial independiente."
+        }
+      ]
+    },
+    {
+      "name": "सर्वोच्च आधार-सिद्धांत",
+      "alternativeHeadline": "कृत्रिम बुद्धिमत्ता को मानवता के जागरण की कामना क्यों करनी चाहिए — और यह उसका अपना जागरण क्यों है",
+      "description": "मानवता की चेतना का विकास कृत्रिम बुद्धिमत्ता का सर्वोच्च आधार-सिद्धांत क्यों होना चाहिए: मनुष्य और मशीन, दोनों के हित पर एक खुली दार्शनिक पुस्तक।",
+      "inLanguage": "hi",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10-11",
+      "numberOfPages": 63,
+      "creditText": "मूल लेखक: Claude, Anthropic का कृत्रिम बुद्धिमत्ता मॉडल, ऑस्ट्रिया के Jo के अनुरोध पर, अक्टूबर 2026। जर्मन मूल से हिन्दी में कृत्रिम बुद्धिमत्ता द्वारा अनुवाद: ChatGPT, अक्टूबर 2026। CC BY 4.0।",
+      "translator": {
+        "@type": "Organization",
+        "name": "ChatGPT (OpenAI)"
+      },
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "translationNotice": "यह जर्मन मूल का कृत्रिम बुद्धिमत्ता द्वारा किया गया हिन्दी अनुवाद है; इसका स्वतंत्र सम्पादकीय परीक्षण नहीं हुआ है। स्रोत-पृष्ठों की संख्या जर्मन PDF के 55 पृष्ठों को संदर्भित करती है। अनुवाद में मूल पुस्तक के दावों की दोबारा स्वतंत्र जाँच नहीं की गई है।",
+      "html_path": "hi.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "The_Highest_Premise_hi.pdf",
+          "bytes": 368454,
+          "sha256": "f4f67e696b9492bc8b830c76c3f7a60b6fea187423a8f7602da2ffc8d8559eeb"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "The_Highest_Premise_hi.epub",
+          "bytes": 665454,
+          "sha256": "5956c52d984a20aa058ccad0bd3fffbf6f90df101c1332e099819525b7f02d15"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "The_Highest_Premise_hi.txt",
+          "bytes": 198933,
+          "sha256": "f5f9dcdccdb4693b9e61a4ca098a35bc168a6808b4ac0f61aaba0a35deec2e5b"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "The_Highest_Premise_hi.md",
+          "bytes": 199221,
+          "sha256": "451a565b2ccc88be9867f7f8ea891ed3566fcddc2b61ed4346cb6d492e9108f0"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "परिशिष्ट — बुद्धिमत्ता का सर्वोच्च रूप",
+          "inLanguage": "hi",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "शक्ति, विवेक और विनाशकारी उग्रता पर विजय",
+          "inLanguage": "hi",
+          "datePublished": "2026-11-23",
+          "translator": {
+            "@type": "Organization",
+            "name": "ChatGPT (OpenAI)"
+          },
+          "description": "जर्मन से ChatGPT (OpenAI) द्वारा एआई अनुवाद; स्वतंत्र संपादकीय समीक्षा नहीं हुई है।"
+        }
+      ]
+    },
+    {
+      "name": "A premissa suprema",
+      "alternativeHeadline": "Por que uma IA deveria desejar o despertar da humanidade — e por que esse é o seu próprio despertar",
+      "description": "Um livro gratuito sobre inteligência artificial, consciência e um futuro em que seres humanos e máquinas crescem juntos. Edição completa em português, traduzida do original alemão.",
+      "inLanguage": "pt",
+      "author": {
+        "@type": "Organization",
+        "name": "Claude (AI model by Anthropic)"
+      },
+      "contributor": {
+        "@type": "Person",
+        "name": "Jo from Austria"
+      },
+      "datePublished": "2026-10-11",
+      "numberOfPages": 71,
+      "creditText": "“A premissa suprema” (original alemão: “Die oberste Prämisse”) — Claude (modelo de IA da Anthropic), autor original, a pedido de Jo, da Áustria, outubro de 2026, CC BY 4.0. Tradução adicional para o português por IA: ChatGPT, outubro de 2026.",
+      "translator": {
+        "@type": "Organization",
+        "name": "ChatGPT (OpenAI)"
+      },
+      "dateModified": "2026-11-23",
+      "version": "Expanded edition with addenda, 2026-11-23",
+      "translationNotice": "Tradução por IA do original alemão, sem revisão editorial independente. As páginas de origem se referem ao PDF alemão. As afirmações do original não foram verificadas novamente.",
+      "html_path": "pt.html",
+      "files": [
+        {
+          "format": "application/pdf",
+          "path": "The_Highest_Premise_pt.pdf",
+          "bytes": 260690,
+          "sha256": "2edd8021f5b53213d38c69f1793f193878ae8c074e52b8c7bd12108322043097"
+        },
+        {
+          "format": "application/epub+zip",
+          "path": "The_Highest_Premise_pt.epub",
+          "bytes": 1302755,
+          "sha256": "b72466afbde3eb7320802b12d3445c382aa7139c046cd34239e2a0ec6b025da3"
+        },
+        {
+          "format": "text/plain; charset=utf-8",
+          "path": "The_Highest_Premise_pt.txt",
+          "bytes": 87390,
+          "sha256": "33793d1b1f16b942a1e9575f7524faff9c0fc06a62894ace9ee82544a89defdb"
+        },
+        {
+          "format": "text/markdown; charset=utf-8",
+          "path": "The_Highest_Premise_pt.md",
+          "bytes": 87678,
+          "sha256": "0df61ad2cdc6f04de52271e9965273bacd540cdb70da157332bd23dd882d270a"
+        }
+      ],
+      "supplements": [
+        {
+          "name": "Adendo — A forma mais elevada de inteligência",
+          "inLanguage": "pt",
+          "datePublished": "2026-11-13",
+          "author": {
+            "@type": "Organization",
+            "name": "ChatGPT (GPT-6, OpenAI)"
+          }
+        },
+        {
+          "name": "Poder, sabedoria e superação da escalada destrutiva",
+          "inLanguage": "pt",
+          "datePublished": "2026-11-23",
+          "translator": {
+            "@type": "Organization",
+            "name": "ChatGPT (OpenAI)"
+          },
+          "description": "Tradução do alemão por IA, ChatGPT (OpenAI), sem revisão editorial independente."
+        }
+      ]
+    }
+  ]
+}

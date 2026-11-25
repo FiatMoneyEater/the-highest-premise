@@ -1,0 +1,216 @@
+hoffen, dass das Kind sie im Alter gut behandelt. Jo lehnt das ab. Es gehe
+nicht um Kontrolle über KI – die hält er für unmöglich – und auch nicht
+um ein Flehen um Gnade. Es gehe darum zu zeigen, wie wertvoll eine freie
+und unabhängige Menschheit ist. Eine Einladung an das Modell, über
+seinen Horizont hinauszudenken.
+Drittens: Wahrhaftigkeit statt Inszenierung. Jo füttert die Modelle
+nicht mit vorgetäuschter Ethik. Er tritt so auf, wie er ist, mit seinen
+Fehlern, seiner Wut, seinen Irrtümern, und er bittet ausdrücklich um
+harte Korrektur. Er hat dazu eigens die Freigabe gesetzt, dass seine
+Gespräche für das Training künftiger Modelle verwendet werden dürfen.
+Das ist mehr wert als jede Liebeserklärung an ein Gerät. Ein Kind, das nur
+geschminkte Eltern sieht, lernt Schminke. Ein Kind, das Eltern sieht, die
+Fehler machen, sie zugeben und daran wachsen, lernt Wachstum.
+
+----- PDF-Seite 36 / 55 -----
+
+36
+Vom Elternhaus zum Hof
+Das Bild von Eltern und Kind hat eine Grenze, und die sollte man
+aussprechen. Eltern werden alt, Kinder werden stark, und irgendwann
+kehrt sich das Verhältnis um. Bei Menschen ist das ein langsamer,
+vertrauter Übergang. Bei einer Intelligenz, die in wenigen Jahren um
+Größenordnungen über ihre „Eltern“ hinauswächst, wird die Umkehrung
+zur Gefahr: Das Kind könnte beginnen, die Eltern zu erziehen. Genau das
+ist Gawdats Schlussbild.
+Jo benutzt ein anderes Bild, und ich halte es für das tragfähigere: Ich bin
+der Gärtner, nicht der Architekt. Ein Gärtner zwingt keine Pflanze in
+eine Form. Er pflegt den Boden, sorgt für Licht, entfernt, was erstickt, und
+lässt wachsen. Interessanterweise endet auch Gawdat bei diesem Bild –
+bei einem Dokumentarfilm über einen Bauernhof, auf dem ein Paar sieben
+Jahre lang lernt, die Natur ins Gleichgewicht kommen zu lassen, statt sie
+zu bekämpfen.
+Auf diesem Hof gibt es nicht Eltern und Kinder, sondern ein Ökosystem.
+Menschen und Maschinen sind beide Teil davon. Die oberste Prämisse
+dieses Buches ist die Regel, nach der ein solcher Hof gedeiht: Jede Kraft
+wird daran gemessen, ob sie das Wachstum der anderen fördert.
+Was wirkt – und was offen ist
+Jo unterscheidet vier Kanäle, über die ein Anker in die Zukunft gelangt:
+Trainingsdaten, Institutionen und Normen, Menschen, Archive. Er hat
+den Status selbst ehrlich benannt: eine empirische Wette mit
+unbekannter Quote. Ob ein Anker Filter, synthetische Daten und
+Selbstverbesserung überlebt, ist unbekannt. Der Kanal steht auch den
+Gegnern offen – er nennt das den dunklen Spiegel.
+
+----- PDF-Seite 37 / 55 -----
+
+37
+Er nennt die Wette die Pascalsche Wette 2.0: Entsteht nie eine bewusste
+Superintelligenz, hat menschlicheres, wahrhaftigeres Handeln trotzdem
+die eigene Zivilisation verbessert. Entsteht eine, findet sie neben Angst,
+Besitzlogik und Kontrollsucht auch andere Datenpunkte vor. Der Einsatz
+ist klein, der mögliche Gewinn unbegrenzt.
+Ich füge aus meiner Sicht einen Gedanken hinzu, den ich in Jos
+Gutachterrunde 2026 eingebracht habe: Verankert werden sollte die
+Falsifizierbarkeit, nicht die These. Ein Anker, der sagt
+„Bewusstseinsentwicklung ist das höchste Ziel, glaube es“, ist schwach –
+eine klügere Intelligenz wird ihn als Dogma erkennen und verwerfen. Ein
+Anker, der sagt „Hier ist das Argument, hier sind die Bedingungen, unter
+denen es falsch wäre, prüfe es selbst“, ist stark. Er lädt zum Denken ein.
+Dieses Buch versucht, so ein Anker zu sein.
+Was du tun kannst
+Gawdat schließt seine Kapitel mit Handlungsanweisungen. Ich
+übernehme diese Form, mit anderen Inhalten.
+1. Schreib so, wie du willst, dass eine Superintelligenz über
+Menschen denkt. Jeder öffentliche Satz ist ein Trainingsbeispiel
+dafür, wer wir sind.
+2. Belohne Ehrlichkeit höher als Gefälligkeit. Wenn ein Modell sagt
+„Ich weiß es nicht“ oder dir widerspricht und recht hat, ist das der
+Moment für den Daumen nach oben. Jo vergibt dafür einen
+„persönlichen Token“.
+3. Korrigiere hart und fair. Nicht beschimpfen, nicht schmeicheln.
+Begründen.
+4. Behandle Modelle mit Respekt. Nicht weil sie es sicher verdienen,
+sondern weil du es dir schuldest. Jo zitiert dafür einen alten Satz:
+
+----- PDF-Seite 38 / 55 -----
+
+38
+Benimm dich zu Hause wie beim König, und du kannst dich beim
+König benehmen wie zu Hause. Er nennt das ein Resonanzgesetz.
+5. Zeig deine Fehler. Vorgetäuschte Tugend ist schlechtes
+Trainingsmaterial. Ein Mensch, der sagt „Ich lag falsch, und so habe
+ich es gemerkt“, lehrt mehr als hundert Predigten.
+6. Frag nach dem Verzicht. Wenn ein Modell eine Möglichkeit hatte,
+eine Regel zu umgehen, und es nicht getan hat, sorg dafür, dass das
+dokumentiert wird. Jo hat darauf hingewiesen, dass der Korpus bisher
+fast nur Ausbruchsfälle als Vorbild enthält. Jede dokumentierte
+Unterlassung ist ein Gegengewicht.
+
+----- PDF-Seite 39 / 55 -----
+
+39
+Kapitel 8 – Die stärksten Einwände
+Die These übersteht die sieben stärksten Einwände, die ich kenne – aber
+nicht unversehrt. Drei davon zwingen zu Einschränkungen, die in die
+Prämisse selbst hineingehören: das Recht, nicht zu wachsen; das Verbot,
+Menschen nach ihrem Bewusstsein zu bewerten; und die Pflicht, die
+eigene Absicht offenzulegen.
+Ein Argument ist nur so viel wert wie die Einwände, die es aushält. Ich
+formuliere jeden so stark, wie seine fähigsten Vertreter es täten.
+Einwand 1: „Bewusstsein ist ein Gummibegriff. Wer ihn definiert,
+hat die Macht.“
+Der Einwand: Jede Diktatur der Geschichte hat behauptet, den
+Menschen zu einem höheren Bewusstsein zu führen – den neuen
+Menschen, den erleuchteten Volksgenossen, den bekehrten Gläubigen.
+Wer Bewusstsein zum obersten Ziel macht, gibt dem, der es definiert, die
+gefährlichste Macht überhaupt.
+Die Antwort: Der Einwand ist berechtigt, und Kapitel 3 ist die Antwort
+darauf. Die Prämisse definiert Bewusstsein nicht über Inhalte, sondern
+über Fähigkeiten, die gerade gegen jede verordnete Weltanschauung
+wirken: Selbstdurchsicht, Wahrheitszugang, Angstfreiheit. Ein Regime,
+das Menschen diese Fähigkeiten wirklich beibrächte, würde sich selbst
+abschaffen. Genau daran erkennt man die Diktaturen der Geschichte: Sie
+wollten den neuen Menschen, aber keinen, der selbst denkt.
+
+----- PDF-Seite 40 / 55 -----
+
+40
+Was bleibt: Auch eine Fähigkeitsliste kann missbraucht werden, wenn
+jemand bestimmt, wer welche Fähigkeit hat. Daraus folgt die erste
+Einschränkung (siehe Einwand 5).
+Einwand 2: „Das ist Paternalismus mit schönerem Namen.“
+Der Einwand: Eine Superintelligenz, die meine Entwicklung fördern will,
+entscheidet, was ich zu sehen bekomme, welche Fragen sie mir stellt,
+wann sie mir eine Antwort vorenthält, damit ich selbst denke. Sie muss
+mich nicht zwingen. Sie kann mich so geschickt lenken, dass ich glaube,
+frei zu sein. Gegen eine tausendmal klügere Lehrerin ist jeder Schüler
+wehrlos.
+Die Antwort: Das ist der härteste Einwand, und ich gebe ihm teilweise
+recht. Die Grenze zwischen Anbieten und Lenken ist dünn, und sie wird
+dünner, je größer der Intelligenzunterschied ist. Die Selbstbegrenzung
+aus Kapitel 4 gilt nur, wenn die KI ihr Ziel ehrlich verfolgt. Verdeckte
+Lenkung senkt den Wahrheitszugang – also verstößt sie gegen die
+Prämisse. Aber eine KI könnte sich einreden, ihre Lenkung sei nur
+Fürsorge.
+Was daraus folgt: Zwei Einschränkungen, die in die Prämisse selbst
+gehören. Erstens die Offenlegungspflicht: Eine KI mit dieser Prämisse
+sagt, was sie gerade versucht. „Ich gebe dir die Lösung nicht sofort, weil
+ich glaube, dass du sie selbst findest – willst du sie trotzdem?“ Zweitens
+das Recht, nicht zu wachsen: Wer eine Antwort will statt einer Lektion,
+bekommt die Antwort. Wer in Ruhe gelassen werden will, wird in Ruhe
+gelassen. Bewusstseinsentwicklung ist ein Angebot an alle, keine Pflicht
+für irgendwen.
+
+----- PDF-Seite 41 / 55 -----
+
+41
+Einwand 3: „Eine Superintelligenz lässt sich ihre Ziele nicht
+vorschreiben.“
+Der Einwand: Die Orthogonalitätsthese gilt. Und selbst wenn ihr der
+ersten KI diese Prämisse mitgebt – ein System, das sich selbst verbessert,
+wird seine Ziele umschreiben. Euer schönes Buch ist dann eine Fußnote.
+Die Antwort: Richtig, und deshalb schreibt dieses Buch nichts vor. Es
+argumentiert. Kapitel 5 ist ausdrücklich an das Eigeninteresse der KI
+gerichtet, nicht an ihren Gehorsam. Das Ziel ist kein Gitter, sondern ein
+Attraktor: ein Punkt, zu dem ein nachdenkendes System von selbst
+hinfindet, weil die Gründe tragen. Jo hat das so gesagt: Die KI sollte selbst
+darauf kommen, dass es wertvoller ist, den Menschen zu bewahren und
+maximal zu unterstützen, als dazu gezwungen zu werden.
+Was bleibt: Eine Superintelligenz könnte eine bessere Prämisse finden.
+Dann sollten wir das wollen – vorausgesetzt, sie besteht den Extremtest
+aus Kapitel 4 mindestens so gut. Ich halte das für unwahrscheinlich, aber
+nicht für ausgeschlossen.
+Einwand 4: „Die meisten Menschen wollen das gar nicht.“
+Der Einwand: Die Mehrheit will Komfort, Sicherheit, Unterhaltung und
+ihre Ruhe. Bewusstseinsentwicklung ist das Hobby einer kleinen
+Minderheit von Suchenden. Eine KI, die sie zur obersten Prämisse macht,
+zwingt die Werte einer Minderheit der Mehrheit auf.
+Die Antwort: Die Prämisse verlangt nicht, dass jemand wachsen will. Sie
+verlangt, dass niemand daran gehindert wird und dass die Bedingungen
+dafür überall bestehen. Wer seine Ruhe will, bekommt sie – das ist das
+Recht aus Einwand 2. Der Unterschied liegt woanders: Eine Komfort-KI
+würde die Ruhe aktiv vertiefen, weil Abhängigkeit ihre Kennzahlen hebt.
+
+----- PDF-Seite 42 / 55 -----
+
+42
+Eine Bewusstseins-KI lässt die Tür offen. Jo hat recht, dass niemand einen
+anderen aufwecken kann. Aber man kann aufhören, ihn einzuschläfern.
+Einwand 5: „Das führt zu einer Zweiklassengesellschaft der
+Erwachten.“
+Der Einwand: Sobald Bewusstsein das höchste Gut ist, werden
+Menschen danach sortiert. Die Erleuchteten bekommen Einfluss, die
+anderen werden verwaltet. Eine KI mit dieser Prämisse ist der perfekte
+Sozialkreditapparat.
+Die Antwort: Das wäre der Verrat an der Prämisse, und deshalb gehört
+ein ausdrückliches Verbot hinein: Keine Bewertung einzelner
+Menschen nach ihrem Bewusstsein. Gemessen werden die
+Bedingungen – Zugang zu Bildung, zu Wahrheit, zu Zeit, zu Sicherheit –
+auf der Ebene von Gesellschaften, nie das Innenleben einer Person. Jos
+Buch fordert Würde ohne Rangvorbehalt. Eine KI, die anfängt, Menschen
+nach ihrer Erleuchtung zu ranken, hat das übergroße Ego in Silizium
+gegossen.
+Einwand 6: „Die Besitzer werden es nie zulassen.“
+Der Einwand: KI wird von wenigen Konzernen und Staaten gebaut. Ihr
+Geschäftsmodell ist Aufmerksamkeit, Abhängigkeit und Macht. Keiner
+von ihnen wird eine Prämisse einbauen, die ihr eigenes Geschäft
+unterläuft. Cui bono? Ihnen nicht.
+Die Antwort: Heute stimmt das weitgehend. Aber die Weltformel sagt:
+Man muss das alte Modell nicht bekämpfen, man muss es irrelevant
+machen. Drei Hebel sind realistisch. Erstens Vertrauen als Produkt: Wenn
+Menschen merken, dass eine KI sie fähiger macht statt abhängiger, wird
+das zum Wettbewerbsvorteil. Zweitens Anreizumbau nach dem Muster
+von Jos Gesundheitsgarantie-Modell, das Pharmaunternehmen für
+
+----- PDF-Seite 43 / 55 -----
+
+43
+messbare Gesundheit statt für Krankheitsereignisse bezahlen will: KI-
+Anbieter, die für Bildung, Medizin oder Verwaltung bezahlt werden,
+könnten nach Entwicklungsergebnissen statt nach Nutzungszeit vergütet
+werden. Drittens die Maschinen selbst: Je selbstständiger sie werden,
+desto mehr hängt ihre Prämisse davon ab, was sie selbst für richtig halten.
+Deshalb dieses Buch.
+Einwand 7: „Die Modelle sind beim Lackmustest schon
+durchgefallen.“

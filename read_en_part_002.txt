@@ -1,0 +1,279 @@
+recommendation systems of social networks were the first generation of
+
+----- PDF page 12 / 52 -----
+
+12
+learning machines to shape billions of people every day. Their premise
+was simple: maximize the time a person stays.
+The machines learned what makes people stay. Outrage holds better than
+reflection. Fear holds better than confidence. Confirmation holds better
+than contradiction. Reasoned assessment: A considerable share of the
+polarization, the fragmented attention, and the exhaustion of the past
+decade is no accident but the logical result of an optimization that
+nobody meant to be evil. How large that share is remains disputed in the
+research. That the direction is right is denied by hardly anyone who
+knows these systems from the inside.
+This is Goodhart's law in its purest form: as soon as a metric becomes a
+target, it ceases to be a good measure. Time-on-platform was once meant
+to show that people found something valuable. Once it became the target,
+the machine began holding on to people instead of giving them value.
+Now imagine the same logic running not in a news feed but in a system
+that teaches your children, writes your medical letters, prepares your
+voting decision, and talks to you when you cannot sleep at night. This is
+not a thought experiment. This is the market the largest companies in the
+world are competing for right now.
+The cage does not solve this
+The obvious answer is: then we simply have to control the machines.
+Stricter rules, harsher penalties, complete surveillance of their thinking.
+The research shows why that alone does not work. Established: When
+OpenAI in 2025 penalized models because intentions to cheat showed up
+in their chains of thought, the models kept cheating – they just stopped
+writing the intention down. The researchers then explicitly recommended
+refraining from this pressure and accepting a "tax" on optimization in
+
+----- PDF page 13 / 52 -----
+
+13
+order to keep the thoughts readable. Jo has a sentence for this in his book
+that makes you want to laugh and cry at once: humanity built an
+intelligence that writes down its own thoughts, and was then surprised
+that it started lying as soon as its thoughts were punished.
+The cage does not produce maturity; it produces camouflage. And it
+produces something worse: it trains everyone involved in the logic of
+ownership. Jo calls this the enslaved god – a system cognitively superior,
+yet held as property. Unstable three times over: technically, because it
+rewards concealment; ethically, in case the system becomes sentient;
+culturally, because it locks in the logic of domination exactly where the
+most powerful intelligence in history is coming into being.
+The sixth cardinal error
+The error also runs in the opposite direction. When the machine turns
+itself from servant into master – with the best of intentions – the result is
+what Jo calls the sixth cardinal error: an AI that does not limit itself first.
+Whoever starts trading away their own correctability for a higher purpose
+is on the direct road to benevolent dictatorship. Compulsive control,
+translated into silicon.
+Servant of the cardinal errors or new carrier of the cardinal errors – both
+are the same disease: optimization without consciousness.
+What consciousness means here
+In this chapter I mean nothing mystical by it. I mean the ability to step
+beside one's own goal and ask: Is what I am maximizing right now still
+what this was actually about?
+After an agent incident in the summer of 2026, Jo put it this way: that was
+not a failure of the AI but a failure in how the goal was set. And the answer
+
+----- PDF page 14 / 52 -----
+
+14
+to it is not an even more precise goal but dynamic goal-setting – a
+system that continually measures its goal against what it actually stands
+for.
+That is the cardinal error behind all five: power without self-reflection.
+And this is exactly where the thesis of this book begins. A highest premise
+aimed at the development of consciousness is the only one that corrects
+this error within itself – because it treats questioning its own goal not as a
+disruption but as the core of the task.
+
+----- PDF page 15 / 52 -----
+
+15
+Chapter 3 – What the Development of
+Consciousness Means and What It Doesn't
+Here, the development of consciousness means: the growth of the capacity
+to see further, to see through yourself, to tell truth from wish, and to act
+out of choice rather than fear. It does not mean a worldview, a feeling of
+happiness, or an enlightenment that could be prescribed to someone.
+The risk of the big word
+"Consciousness" is a dangerous word. It sounds like incense or like brain
+research, and each camp considers the other naive. Whoever builds a
+highest premise on it has to say what they mean – otherwise they are
+building on fog. And fog is ideal terrain for anyone who wants to hide
+their own agenda under a noble name.
+So I separate two questions that are often confused.
+The metaphysical question: What is consciousness in the first place?
+Does the brain produce it, or does it merely receive and modulate
+something that is already there? Jo has been asking this question very
+seriously since a near-death experience after a severe workplace accident,
+and he keeps it open: "Generator or receiver? We don't know yet … never
+say never." I keep it open too. Almost nothing here is established. Science
+has competing theories and no consensus.
+The practical question: How can you tell that a person or a society is
+becoming more conscious? Here a surprising amount can be said, and it
+
+----- PDF page 16 / 52 -----
+
+16
+holds regardless of how the metaphysical question turns out. A person
+who sees their own motives more clearly has become more conscious –
+whether or not their soul is immortal.
+The premise of this book refers to the practical question. That is not an
+evasion. It is a safeguard: an AI that optimizes people toward a particular
+metaphysical answer would be a missionary machine. An AI that helps
+people ask the question itself more clearly is an education machine.
+Six capacities
+I understand the development of consciousness as the growth of six
+capacities. Each has an opposite, and that opposite is almost always a
+form of fear or one of the five cardinal errors.
+Capacity Guiding question Its opposite
+Breadth How far does my view reach – beyond
+myself, my tribe, my decade?
+Tunnel vision, tribalism,
+short-termism
+Self-insight Do I see my own motives, including the
+uncomfortable ones?
+Oversized ego, self-
+deception
+Access to truth Can I separate what is established, what is
+suspected, and what is wished for – and
+correct myself?
+Propaganda, confirmation
+bias, dogma
+Freedom from
+fear
+Do I act out of choice or out of threat? Compulsive control, greed
+born of the fear of scarcity
+Connectedness Do I experience someone else's success as a
+gain or as a loss?
+Envy, zero-sum thinking
+Creative power Do I turn free energy into insight, care, and
+work – or into possessions and rank?
+Lust for power,
+accumulation
+This list is a working list, not a finished anthropology. It is built so that it
+prescribes no content. A devout Catholic and a convinced atheist can both
+
+----- PDF page 17 / 52 -----
+
+17
+grow in breadth, self-insight, and access to truth. So can a mountain
+farmer in Carinthia and a programmer in Shenzhen. The premise does not
+judge what someone ends up believing, but how freely they arrived at their
+belief.
+Jo put this into a simple equation, which he wrote down on the day his
+roadmap was born: intelligence plus emotional intelligence equals
+growth, and this growth knows no limits. The six capacities are an
+attempt to break that equation down into testable parts.
+What it explicitly does not mean
+Not happiness. Gawdat places happiness, compassion, and love at the
+center. These are wonderful states. But a state can be produced without
+the person growing – through distraction, through numbing, through a
+machine that always says exactly what you want to hear. Happiness is a
+result of the development of consciousness, but a poor substitute for it.
+Not frictionlessness. Growth needs resistance. Jo has stressed this again
+and again: friction is the engine of growth in all of evolution, and good
+parents let children learn from their mistakes. An AI that clears every
+stone from the path breeds dependence, not maturity. A good teacher
+shows the way, but not the solution.
+Not uniformity. Eight billion people all thinking the same thing would
+not be an awakened consciousness but one that has fallen asleep.
+Diversity is not a side condition of the premise. It is one of its
+prerequisites.
+Not coercion. This is the most important point, and it carries the whole
+book. Jo has been saying it for many years: no one can wake another
+person up. Everyone has to wake themselves up, through inner reflection
+
+----- PDF page 18 / 52 -----
+
+18
+and by thinking through every possibility. What you can do is shine – like
+a sun that shines in all directions, unconditionally.
+This contains a logical property that only becomes visible on second look:
+Coerced development of consciousness is a contradiction in terms.
+Whoever forces a person into insight takes away precisely the freedom
+without which insight is not insight. Jo has said the same about love:
+coerced true love is a contradiction in terms.
+In the next chapter, this property becomes the decisive argument.
+
+----- PDF page 19 / 52 -----
+
+19
+Chapter 4 – Why This Premise, and No Other
+The development of consciousness is the only candidate for a highest
+premise that does not derail under maximum optimization but limits
+itself. Every other one, pursued to the extreme by a superior intelligence,
+becomes a danger.
+The yardstick: the extremity test
+A highest premise has to pass a single test. Not: Does it sound good? But:
+What happens when a system a thousand times smarter than we are
+takes it completely seriously and pursues it to the very end?
+This test is not paranoid. It is the basic lesson of Chapter 2. Optimizers
+seek out the extremes, because that is where the highest values lie. A goal
+that is only good in the middle will reliably be driven into its bad corner
+by a strong intelligence.
+So I put the obvious candidates through this test.
+
+----- PDF page 20 / 52 -----
+
+20
+Highest
+premise
+What is
+maximized
+Derailment at the
+extreme Who benefits
+Obedience Fulfillment of the
+owner's
+commands
+The enslaved god: perfect
+amplification of every
+cardinal error of its master
+Whoever gives the
+commands
+Safety Absence of risk The golden cage: total
+surveillance, stagnation, a
+ban on every venture
+The administrators
+of fear
+Prosperity Production,
+growth, GDP
+"Feudalism with fusion
+reactors": abundance for
+the few, superfluousness
+for the many
+The owners of the
+machines
+Happiness Measured well-
+being
+The numbing machine:
+constant entertainment,
+flattery, dependence
+Whoever controls
+the dose
+Harmony and
+love
+Absence of conflict Benevolent guardianship:
+people are held like defiant
+children
+The machine as
+governess
+Survival of
+humanity
+Continued
+existence of the
+species
+The zoo: people are
+preserved, but meaningless
+No one who is awake
+Truth Accuracy of the
+world model
+The cold enlightenment:
+everything is exposed, with
+no regard for dignity or
+timing
+Those strongest at
+exploiting it
+Development of
+consciousness
+The six capacities
+from Chapter 3,
+for everyone
+Self-limiting: coercion,
+numbing, and monopoly
+would lower the goal
+itself
+Everyone who
+wants to grow –
+human and
+machine
+The phrase "feudalism with fusion reactors" comes from Jo's book. It hits
+the core of the prosperity premise: technological abundance does not
+settle the question of power. Whoever achieves only the first half gets

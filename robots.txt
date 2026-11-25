@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fiatmoneyeater.github.io/the-highest-premise/sitemap.xml

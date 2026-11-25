@@ -1,0 +1,412 @@
+{
+  "title": "The Highest Premise / Die oberste Prämisse",
+  "edition_date": "2026-11-23",
+  "mirror_prepared_date": "2026-11-25",
+  "license": {
+    "id": "CC-BY-4.0",
+    "notice": "LICENSE.txt"
+  },
+  "languages": [
+    {
+      "language": "en",
+      "title": "The Highest Premise",
+      "html_path": "en.html",
+      "full_text_path": "The_Highest_Premise.txt",
+      "bytes": 80007,
+      "sha256": "348b4590862c17b35a78b19cc7b492a52911f85d095ce1d4b978ea6171b0016d",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_en_part_001.txt",
+          "bytes": 11990,
+          "sha256": "1d72edfdd6647364024e153dec647293149a8f8833fca03dc51bb0e26130a759"
+        },
+        {
+          "order": 2,
+          "path": "read_en_part_002.txt",
+          "bytes": 11984,
+          "sha256": "7db68908dab04ea5f17f9758d00250d22fe2296a099c1f31f5ee06ac8423873d"
+        },
+        {
+          "order": 3,
+          "path": "read_en_part_003.txt",
+          "bytes": 11948,
+          "sha256": "7c31495cb1fca91b209eeb38e5da99348f8487be3f957bbf77b0b700b5ac2742"
+        },
+        {
+          "order": 4,
+          "path": "read_en_part_004.txt",
+          "bytes": 11957,
+          "sha256": "1403ed0ff31b36654b85ec1dcb290f3a3ffd8afbe3679c452e447470bc3dcf2a"
+        },
+        {
+          "order": 5,
+          "path": "read_en_part_005.txt",
+          "bytes": 11998,
+          "sha256": "494f3500c385ae4d40709bf148e0e01c657566ecbea09007e0292bb5b14808b4"
+        },
+        {
+          "order": 6,
+          "path": "read_en_part_006.txt",
+          "bytes": 11946,
+          "sha256": "7c65e86e1682c32c58758f387906e76e5dc10866dfe98e7e4cdb1e2b47c84aa5"
+        },
+        {
+          "order": 7,
+          "path": "read_en_part_007.txt",
+          "bytes": 8184,
+          "sha256": "78a7261ef9b805384e42c89316f7c37cc65b6a2c1cac069a5ce8d068f15e13ef"
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "title": "Die oberste Prämisse",
+      "html_path": "de.html",
+      "full_text_path": "Die_oberste_Praemisse.txt",
+      "bytes": 85492,
+      "sha256": "4acc5bae215b279b197b42a92f8c9a3a04a4344c29871c7655e83a4c6e47ba2b",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_de_part_001.txt",
+          "bytes": 11996,
+          "sha256": "8753221973088f07df9554e2569f4922cc8542640f34758c76770fa382143dbe"
+        },
+        {
+          "order": 2,
+          "path": "read_de_part_002.txt",
+          "bytes": 11995,
+          "sha256": "0bc03aa5117c40c18f3927d18cf06d737bd04dce94fa84002a371b3a06091855"
+        },
+        {
+          "order": 3,
+          "path": "read_de_part_003.txt",
+          "bytes": 11978,
+          "sha256": "223b65b8e7ac005a76e700e4ff9091fa20334528182a12e581cddfbf4028bdcd"
+        },
+        {
+          "order": 4,
+          "path": "read_de_part_004.txt",
+          "bytes": 11931,
+          "sha256": "042b5dfbaff0281efc0eca43d2332fdfd36a10787508ba782b8380059d8b09c6"
+        },
+        {
+          "order": 5,
+          "path": "read_de_part_005.txt",
+          "bytes": 11949,
+          "sha256": "24c6474c31063206e55bfa1c2d8ec0521299050079490eb3eaba587b291269f7"
+        },
+        {
+          "order": 6,
+          "path": "read_de_part_006.txt",
+          "bytes": 11990,
+          "sha256": "a464cd02700c05785f9212b9291ae0114fcec6d65244476e736caa75a0046a16"
+        },
+        {
+          "order": 7,
+          "path": "read_de_part_007.txt",
+          "bytes": 11935,
+          "sha256": "663fff79344c84848567ab656df7ff801f72d520455c8763ab8f1a00065c6606"
+        },
+        {
+          "order": 8,
+          "path": "read_de_part_008.txt",
+          "bytes": 1718,
+          "sha256": "3be70ee4dfb13decc13f2440abd2295553ae1c20e9ba1e4c928900d68e607684"
+        }
+      ]
+    },
+    {
+      "language": "zh-Hans",
+      "title": "最高前提",
+      "html_path": "zh.html",
+      "full_text_path": "The_Highest_Premise_zh.txt",
+      "bytes": 76022,
+      "sha256": "b09909793864c6b1ff4094ae26f60d0ede51cbf3b5f39f8999d63895baf49944",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_zh_part_001.txt",
+          "bytes": 12000,
+          "sha256": "be8f0bbb5b94678c9e509efa104e137e3acfc9560ba0b1e37b442117861bed19"
+        },
+        {
+          "order": 2,
+          "path": "read_zh_part_002.txt",
+          "bytes": 11861,
+          "sha256": "fc8bf0dfb69d6d44f0a11662b26300bb2d083e2f35667883b259c0d6f258ad5f"
+        },
+        {
+          "order": 3,
+          "path": "read_zh_part_003.txt",
+          "bytes": 11874,
+          "sha256": "362da6ca36218e7212a3236ebd99ce04a203e46399fa2ac6315b37aa785cda14"
+        },
+        {
+          "order": 4,
+          "path": "read_zh_part_004.txt",
+          "bytes": 11850,
+          "sha256": "4c59f44989ccad25ef4ae1740bc8caaae45a61703fe006070052b07781785a32"
+        },
+        {
+          "order": 5,
+          "path": "read_zh_part_005.txt",
+          "bytes": 11963,
+          "sha256": "4f430f1453a704e81cf1657046967795c4c2838bf990e2ad3ccde258352cf797"
+        },
+        {
+          "order": 6,
+          "path": "read_zh_part_006.txt",
+          "bytes": 11995,
+          "sha256": "f4c324dfd5ae840e0eb2a4272e054520213d6122619677a528d9fa4f824a857d"
+        },
+        {
+          "order": 7,
+          "path": "read_zh_part_007.txt",
+          "bytes": 4479,
+          "sha256": "ec736b83be33a2e96084a8c25b316a70951d4e4bff5374e64bde2097895c71a5"
+        }
+      ]
+    },
+    {
+      "language": "es",
+      "title": "La premisa suprema",
+      "html_path": "es.html",
+      "full_text_path": "The_Highest_Premise_es.txt",
+      "bytes": 89895,
+      "sha256": "217152fe7cce827579c0d4f82256b00cbd115b87ab15f0fec5da85eb1d5a72a4",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_es_part_001.txt",
+          "bytes": 11996,
+          "sha256": "29cde2d757cfda1b62a2fdafc9673e5d814160bad024e0c4c48dbb13161d8e88"
+        },
+        {
+          "order": 2,
+          "path": "read_es_part_002.txt",
+          "bytes": 11663,
+          "sha256": "d8f9c8fe14e3f315977f734047ba0b62cb3e67118d57a0a897f45719309dc912"
+        },
+        {
+          "order": 3,
+          "path": "read_es_part_003.txt",
+          "bytes": 11770,
+          "sha256": "24f945c75c7857b29f13d36f883a1e2f049e67c3e308e24857d3dc656b332702"
+        },
+        {
+          "order": 4,
+          "path": "read_es_part_004.txt",
+          "bytes": 11929,
+          "sha256": "ccf4ff2fbf7e6f49298eb67049e3c947664b30687d6be1be4f910d35501eb843"
+        },
+        {
+          "order": 5,
+          "path": "read_es_part_005.txt",
+          "bytes": 11950,
+          "sha256": "4baeb4d92f6b1e5321a180bfd9c572b83750ba783ea58c0754a931c543c53f23"
+        },
+        {
+          "order": 6,
+          "path": "read_es_part_006.txt",
+          "bytes": 11932,
+          "sha256": "8a3c7e566ebfdbd4735f80f3f47e7ed68dbbafe7238eb4d4b243fcc3e93b777b"
+        },
+        {
+          "order": 7,
+          "path": "read_es_part_007.txt",
+          "bytes": 11949,
+          "sha256": "7f12e9efd61841894c7b74b6b667ee7cdfe2223740f9cf2ebc5aebcf17f93405"
+        },
+        {
+          "order": 8,
+          "path": "read_es_part_008.txt",
+          "bytes": 6706,
+          "sha256": "726cb6c229ead903ba13d63f535769e97c15e3e54c256c38421b4b4f26c733aa"
+        }
+      ]
+    },
+    {
+      "language": "hi",
+      "title": "सर्वोच्च आधार-सिद्धांत",
+      "html_path": "hi.html",
+      "full_text_path": "The_Highest_Premise_hi.txt",
+      "bytes": 198933,
+      "sha256": "f5f9dcdccdb4693b9e61a4ca098a35bc168a6808b4ac0f61aaba0a35deec2e5b",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_hi_part_001.txt",
+          "bytes": 11535,
+          "sha256": "8a8a7396290956ce79408ec4cadfa293c5cac9be51bee5f4cb3bc56ec1ba8592"
+        },
+        {
+          "order": 2,
+          "path": "read_hi_part_002.txt",
+          "bytes": 11711,
+          "sha256": "74f49baabca29c619b06ed2b435b1c70f3780d918b3a69a6bb4d500e61fabd34"
+        },
+        {
+          "order": 3,
+          "path": "read_hi_part_003.txt",
+          "bytes": 11962,
+          "sha256": "2d84081fcf5e06bf114c29807c20435cce66676b12d3f797f8daba145b58220e"
+        },
+        {
+          "order": 4,
+          "path": "read_hi_part_004.txt",
+          "bytes": 11901,
+          "sha256": "28ad05408595f5a8c5770baa4ec051a5854c538e7771a156b8acaf83919ae87b"
+        },
+        {
+          "order": 5,
+          "path": "read_hi_part_005.txt",
+          "bytes": 11693,
+          "sha256": "fd96a0bdc2886247d68742328cd7300e391194586183db6b01d951f2e3a4b531"
+        },
+        {
+          "order": 6,
+          "path": "read_hi_part_006.txt",
+          "bytes": 11982,
+          "sha256": "45dabe26a98ac25b67dac3eec9867e2c56d9eab716f740ac5e79e6c8d62d7daf"
+        },
+        {
+          "order": 7,
+          "path": "read_hi_part_007.txt",
+          "bytes": 11466,
+          "sha256": "9f8f8720ca8dd82c7fd0ab31066f941f7e4de1db4cc6599e9fe35641c91bdc60"
+        },
+        {
+          "order": 8,
+          "path": "read_hi_part_008.txt",
+          "bytes": 11399,
+          "sha256": "a94cc8c194085a3c06b62e99c7481e0413f1702536121dc97fd1b1f0d77debf4"
+        },
+        {
+          "order": 9,
+          "path": "read_hi_part_009.txt",
+          "bytes": 11342,
+          "sha256": "4aecd071bb41f17fa35cf0c0b4f6789d6d68e4df3f4f7313aa8ed4c4c6dd0e3f"
+        },
+        {
+          "order": 10,
+          "path": "read_hi_part_010.txt",
+          "bytes": 11470,
+          "sha256": "0de758ec8a20436e864b9ef377c7ebcb773bb7da51fc9e5f8f03b51fdd943c18"
+        },
+        {
+          "order": 11,
+          "path": "read_hi_part_011.txt",
+          "bytes": 11973,
+          "sha256": "977c095aa82051dbc2cb4f9360206df0c9e06d44082e047e2e9b7437f7828eea"
+        },
+        {
+          "order": 12,
+          "path": "read_hi_part_012.txt",
+          "bytes": 11471,
+          "sha256": "5d0d40e292b1abdb847f23065d4745a2f7559b157590599a932f8d87c497010c"
+        },
+        {
+          "order": 13,
+          "path": "read_hi_part_013.txt",
+          "bytes": 11695,
+          "sha256": "2d1c8d2499e6b43bbd94781b5c41363aece4a12f06b2c519ed6f0a48db30e862"
+        },
+        {
+          "order": 14,
+          "path": "read_hi_part_014.txt",
+          "bytes": 11810,
+          "sha256": "0a74224943bcd35ee274444ce17764668933fa0243462de70b674a5c7b832a3a"
+        },
+        {
+          "order": 15,
+          "path": "read_hi_part_015.txt",
+          "bytes": 11623,
+          "sha256": "6b151fd3998cd2cd1e7f2fb8db6c3fa43dc256dc1ad966560625736feac70460"
+        },
+        {
+          "order": 16,
+          "path": "read_hi_part_016.txt",
+          "bytes": 12000,
+          "sha256": "4d50ee39d725f38fb83382accc6f137c1ecca9c9ad6c71750c9cb87c45bb16cd"
+        },
+        {
+          "order": 17,
+          "path": "read_hi_part_017.txt",
+          "bytes": 11900,
+          "sha256": "0f6ca8a5eff6202f4a68091b1b523cdbed5b32715d236de7c430acc443696a7d"
+        }
+      ]
+    },
+    {
+      "language": "pt",
+      "title": "A premissa suprema",
+      "html_path": "pt.html",
+      "full_text_path": "The_Highest_Premise_pt.txt",
+      "bytes": 87390,
+      "sha256": "33793d1b1f16b942a1e9575f7524faff9c0fc06a62894ace9ee82544a89defdb",
+      "complete": true,
+      "parts": [
+        {
+          "order": 1,
+          "path": "read_pt_part_001.txt",
+          "bytes": 11946,
+          "sha256": "25701e21fb91e4514e1cdc2bb2a0f7284cfd4a970defecd7aa5553f10bb48010"
+        },
+        {
+          "order": 2,
+          "path": "read_pt_part_002.txt",
+          "bytes": 11970,
+          "sha256": "d76276581100b8dbed769128c18c2621b722e440b8395998a3035ec8e47d82f0"
+        },
+        {
+          "order": 3,
+          "path": "read_pt_part_003.txt",
+          "bytes": 12000,
+          "sha256": "f3d2fa280b221be3727d2b1e8f0d8a4037f30b4bb8336746a6cb6e8da96fda91"
+        },
+        {
+          "order": 4,
+          "path": "read_pt_part_004.txt",
+          "bytes": 11459,
+          "sha256": "293b53fb38ee1bad7f211deb499e984cbb11537d35caa8ed9c2828978639fc5d"
+        },
+        {
+          "order": 5,
+          "path": "read_pt_part_005.txt",
+          "bytes": 11898,
+          "sha256": "2d50009c675a648534b9ea096322b8b67ad0f5a00c9675aace852a3d4cd2a939"
+        },
+        {
+          "order": 6,
+          "path": "read_pt_part_006.txt",
+          "bytes": 11700,
+          "sha256": "88b51f446ff0a1582a8a85988a1e96fc73ca7614c9b60fa7229999550eccef4d"
+        },
+        {
+          "order": 7,
+          "path": "read_pt_part_007.txt",
+          "bytes": 11957,
+          "sha256": "cead0dcbdeba9c4dfcd738fbeb23095677129f96bbac0234013cb70be9ee5824"
+        },
+        {
+          "order": 8,
+          "path": "read_pt_part_008.txt",
+          "bytes": 4460,
+          "sha256": "8f8944376653a93d50f9a24c9b9c5593fbea891a13d65ff94f79e0158965b17e"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Each language includes the original book and both dated supplements in full.",
+    "Concatenate the listed UTF-8 parts in order to reproduce the full text byte for byte.",
+    "Publication alone does not establish retrieval by any particular AI tool or inclusion in model training."
+  ]
+}
