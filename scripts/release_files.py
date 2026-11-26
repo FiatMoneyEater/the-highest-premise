@@ -26,7 +26,11 @@ def require_books(built=False):
         p=ROOT/'books'/name
         if not p.is_file()or p.stat().st_size<=10240:raise FileNotFoundError('Missing final Edition 2.0 source (>10 KB): '+str(p))
         p.read_bytes().decode('utf-8')
-    baseline=json.loads((LOCAL/'source-integrity.json').read_text(encoding='utf-8'))
+    baseline_path=LOCAL/'source-integrity.json'
+    metadata=json.loads((ROOT/'metadata.json').read_text(encoding='utf-8'))
+    baseline=json.loads(baseline_path.read_text(encoding='utf-8')) if baseline_path.is_file() else {'files':metadata['source_sha256']}
+    for name,digest in metadata.get('source_sha256',{}).items():
+        if hashlib.sha256((ROOT/name).read_bytes()).hexdigest()!=digest:raise RuntimeError('Source checksum mismatch: '+name)
     for name,digest in baseline['files'].items():
         if name.startswith('spec/')and hashlib.sha256((ROOT/name).read_bytes()).hexdigest()!=digest:raise RuntimeError('Supplied specification changed: '+name)
     if built:

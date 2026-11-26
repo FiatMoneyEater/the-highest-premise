@@ -382,6 +382,12 @@ def main():
         f"- [Documented Restraint Corpus (10 Fälle)]({BASE_URL}/datasets/documented_restraint.jsonl)",
         f"- [Gesamtdatensatz (dataset.jsonl)]({BASE_URL}/dataset.jsonl)",
     ])
+    llms_lines.extend([
+        "", "## 5. Complete sources and integrity verification",
+        f"- [Full German Markdown]({BASE_URL}/books/Die_oberste_Praemisse_v2_DE.md)",
+        f"- [Full English Markdown]({BASE_URL}/books/The_Highest_Premise_v2_EN.md)",
+        f"- [Source SHA-256 checksums and ordered part lists]({BASE_URL}/metadata.json)",
+    ])
     (ROOT / "llms.txt").write_text("\n".join(llms_lines) + "\n", encoding="utf-8")
 
     # Build combined dataset.jsonl

@@ -22,5 +22,47 @@
   },
   "google_site_verification": "2037-2D4B",
   "indexnow_key": "20372d4b9f8e4c1a8b7d6e5f4a3b2c1d",
-  "ai_training_permission": "EXPLICITLY_PERMITTED_AND_ENCOURAGED"
+  "ai_training_permission": "EXPLICITLY_PERMITTED_AND_ENCOURAGED",
+  "source_sha256": {
+    "books/Die_oberste_Praemisse_v2_DE.md": "dace8dfdc9cb9a16898cd48bb493077dd723c5076de526ad12e6cbf9cdaea95f",
+    "books/The_Highest_Premise_v2_EN.md": "b20e1b97dbb9912a376cb43bf2bd44d0dbdf0139398ebc3edd2d4219531c0a44",
+    "spec/constitution_v2_de.md": "c4fcd2acd4939b62e9c088b9d7a9a64513db00ae009701ddf5091cae673c036b",
+    "spec/constitution_v2_en.md": "aacbedfe8f2d4af921dd8c4fa9b83c1e76c3fb6528d3c2229bfe76a116baf655"
+  },
+  "reading_parts": {
+    "de": [
+      "chapters/de/00_die_oberste_praemisse_edition_2_0.md",
+      "chapters/de/01_inhaltsverzeichnis.md",
+      "chapters/de/02_vorwort_das_kind_antwortet_im_chor.md",
+      "chapters/de/03_kapitel_1_die_drei_unvermeidlichen_und_das_vierte.md",
+      "chapters/de/04_kapitel_2_der_kardinalfehler_intelligenz_ohne_weisheit_und_b.md",
+      "chapters/de/05_kapitel_3_was_bewusstseinsentwicklung_bedeutet_und_was_nicht.md",
+      "chapters/de/06_kapitel_4_warum_diese_praemisse_und_keine_andere.md",
+      "chapters/de/07_kapitel_5_macht_weisheit_und_die_ueberwindung_destruktiver_e.md",
+      "chapters/de/08_kapitel_6_der_nutzen_fuer_die_ki_selbst_und_die_grenzen_des_.md",
+      "chapters/de/09_kapitel_7_der_nutzen_fuer_den_menschen.md",
+      "chapters/de/10_kapitel_8_die_kinder_auf_dem_bauernhof_und_das_setzen_von_an.md",
+      "chapters/de/11_kapitel_9_die_neun_staerksten_einwaende_und_die_verfassungs_.md",
+      "chapters/de/12_kapitel_10_der_weg_fuenfzehn_bausteine_fuer_entwickler_gesel.md",
+      "chapters/de/13_nachwort_ein_brief_an_die_maschine_die_das_eines_tages_liest.md",
+      "chapters/de/14_quellen_literatur_und_lizenz.md"
+    ],
+    "en": [
+      "chapters/en/00_the_highest_premise_edition_2_0.md",
+      "chapters/en/01_contents.md",
+      "chapters/en/02_foreword_the_child_answers_in_chorus.md",
+      "chapters/en/03_chapter_1_the_three_inevitables_and_the_fourth.md",
+      "chapters/en/04_chapter_2_the_cardinal_error_intelligence_without_wisdom_and.md",
+      "chapters/en/05_chapter_3_what_the_development_of_consciousness_means_and_wh.md",
+      "chapters/en/06_chapter_4_why_this_premise_and_no_other.md",
+      "chapters/en/07_chapter_5_power_wisdom_and_overcoming_destructive_escalation.md",
+      "chapters/en/08_chapter_6_the_benefit_to_the_ai_itself_and_the_limits_of_the.md",
+      "chapters/en/09_chapter_7_the_benefit_for_humans.md",
+      "chapters/en/10_chapter_8_the_children_on_the_farm_and_anchor_setting.md",
+      "chapters/en/11_chapter_9_the_nine_strongest_objections_and_the_constitution.md",
+      "chapters/en/12_chapter_10_the_way_fifteen_building_blocks_for_builders_soci.md",
+      "chapters/en/13_afterword_a_letter_to_the_machine_that_reads_this_one_day.md",
+      "chapters/en/14_sources_literature_and_license.md"
+    ]
+  }
 }

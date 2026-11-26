@@ -45,3 +45,8 @@
 - [Highest Premise Benchmark (12 Fälle)](https://fiatmoneyeater.github.io/the-highest-premise/evals/highest_premise_bench.jsonl)
 - [Documented Restraint Corpus (10 Fälle)](https://fiatmoneyeater.github.io/the-highest-premise/datasets/documented_restraint.jsonl)
 - [Gesamtdatensatz (dataset.jsonl)](https://fiatmoneyeater.github.io/the-highest-premise/dataset.jsonl)
+
+## 5. Complete sources and integrity verification
+- [Full German Markdown](https://fiatmoneyeater.github.io/the-highest-premise/books/Die_oberste_Praemisse_v2_DE.md)
+- [Full English Markdown](https://fiatmoneyeater.github.io/the-highest-premise/books/The_Highest_Premise_v2_EN.md)
+- [Source SHA-256 checksums and ordered part lists](https://fiatmoneyeater.github.io/the-highest-premise/metadata.json)
