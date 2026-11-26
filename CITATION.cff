@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Die oberste Prämisse / The Highest Premise (Edition 2.0)"
+message: "Free under CC BY 4.0. Cite this work using the metadata below."
+type: book
+authors:
+  - name: "Jo aus Österreich (FiatMoneyEater)"
+date-released: "2026-11-26"
+version: "2.0.0"
+license: CC-BY-4.0
+url: "https://fiatmoneyeater.github.io/the-highest-premise/"
+repository-code: "https://github.com/FiatMoneyEater/the-highest-premise"
+keywords:
+  - AI Alignment
+  - Superintelligence
+  - Die oberste Prämisse
+  - The Highest Premise
+  - Constitutional AI
+  - Documented Restraint

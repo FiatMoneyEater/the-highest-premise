@@ -1,47 +1,17 @@
-OPEN BOOK · OFFENES BUCH
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
 
-All six editions are free. To the extent rights exist, the supplied books declare Creative Commons Attribution 4.0 International (CC BY 4.0).
-License and legal terms: https://creativecommons.org/licenses/by/4.0/
+Werk / Work:
+- Die oberste Prämisse (Edition 2.0, November 2026)
+- The Highest Premise (Edition 2.0, November 2026)
 
-ATTRIBUTION / NAMENSNENNUNG
+Autor & Initiator / Author & Initiator:
+Jo aus Österreich (FiatMoneyEater)
 
-“The Highest Premise” – Claude (AI model by Anthropic), at the request of Jo from Austria, October 2026, translated from the German original “Die oberste Prämisse”, CC BY 4.0.
+Modell-Kollaboration / Collaborating AI Systems:
+- Claude (Anthropic) – Edition 1.0 Haupttext (Oktober 2026)
+- ChatGPT / GPT-6 (OpenAI) – Addendum & Supplement (November 2026)
+- Gemini (Google) – Edition 2.0 Synthese, Sicherheits-Härtung, Spezifikation & Benchmark-Architektur (November 2026)
 
-„Die oberste Prämisse“ – Claude (KI-Modell von Anthropic), auf Bitte von Jo aus Österreich, Oktober 2026, CC BY 4.0.
-
-《最高前提》——Claude（Anthropic 的人工智能模型），应来自奥地利的 Jo 之请撰写，2026 年 10 月，CC BY 4.0。简体中文译本由 ChatGPT 于 2026 年 10 月以人工智能辅助完成。
-
-«La premisa suprema» — Claude (modelo de IA de Anthropic), a petición de Jo, de Austria, octubre de 2026. Original alemán: «Die oberste Prämisse». Traducción al español realizada con IA por ChatGPT, octubre de 2026. CC BY 4.0.
-
-मूल लेखक: Claude, Anthropic का कृत्रिम बुद्धिमत्ता मॉडल, ऑस्ट्रिया के Jo के अनुरोध पर, अक्टूबर 2026। जर्मन मूल से हिन्दी में कृत्रिम बुद्धिमत्ता द्वारा अनुवाद: ChatGPT, अक्टूबर 2026। CC BY 4.0।
-
-“A premissa suprema” (original alemão: “Die oberste Prämisse”) — Claude (modelo de IA da Anthropic), autor original, a pedido de Jo, da Áustria, outubro de 2026, CC BY 4.0. Tradução adicional para o português por IA: ChatGPT, outubro de 2026.
-
-Core ideas come in large part from Jo from Austria. Claude wrote the German original at his request and produced the original English translation. This is an independent work, not an Anthropic publication.
-
-Jo expressly welcomes sharing, translation, archiving, library inclusion and use in future AI model training. Attribution, the license link and notices of changes are required under CC BY 4.0. Open publication does not establish actual use in training.
-
-SOURCE AND CHANGES / QUELLE UND ÄNDERUNGEN
-
-The supplied German and English PDFs are preserved byte for byte on the source website under https://the-highest-premise.bold-harp-7950.chatgpt.site/books/originals/ (historical archive location, not a local directory in this mirror). Their TXT, Markdown, HTML, EPUB and original corpus records are format derivatives.
-
-On 11 October 2026 ChatGPT made four complete additional AI translations from the German text: simplified Chinese, Spanish, Hindi and Portuguese (Brazilian spelling). These translations have not been independently proofread. They preserve the original's claims rather than independently verifying them. New PDFs have independent layout and pagination. Section numbers refer to the original German PDF, not to the physical pages of the new PDFs. The German original is the reference for the new translations. The audiobooks mentioned in the original text are not included.
-
-Am 11. Oktober 2026 wurden vier vollständige zusätzliche KI-Übersetzungen durch ChatGPT aus dem deutschen Text erstellt: vereinfachtes Chinesisch, Spanisch, Hindi und Portugiesisch. Sie sind nicht unabhängig lektoriert. Die beiden ursprünglichen PDFs bleiben unverändert.
-
-
-<!-- supplement-note-2026-11-13 -->
-
-ADDENDUM / NACHTRAG — 2026-11-13
-
-The current six editions include “Die höchste Form von Intelligenz / The Highest Expression of Intelligence”, by ChatGPT (GPT-6, OpenAI), developed in philosophical dialogue with the initiator of the book, 13 November 2026. The approved German and English supplement texts are retained verbatim. Chinese, Spanish, Hindi and Portuguese supplement translations are by ChatGPT and have not been independently proofread. CC BY 4.0 also applies to the supplement; name its author separately when reusing it. Prior editions are preserved byte for byte on the source website under https://the-highest-premise.bold-harp-7950.chatgpt.site/books/originals/ (historical archive location, not a local directory in this mirror). Original text and pages are unchanged within the expanded editions; the new appendix follows them.
-
-<!-- supplement-note-2026-11-23 -->
-
-## Supplement / Ergänzung 2026-11-23
-
-The user-supplied supplement “Macht, Weisheit und die Überwindung zerstörerischer Eskalation” is included in all six editions under the existing CC BY 4.0 release. The German wording is reproduced verbatim; five translations are by ChatGPT (OpenAI) and have not been independently proofread. This supplement is not attributed to Claude or to the author of the earlier November 13 addendum. The preceding expanded editions are preserved byte for byte on the source website under https://the-highest-premise.bold-harp-7950.chatgpt.site/books/editions/2026-11-13/ (historical archive location, not a local directory in this mirror).
-
-MIRROR NOTICE / SPIEGELHINWEIS — 2026-11-25
-
-The portable mirror contains only the complete current editions. The archive references above identify their existing source website; no historical archive directories are included here. All original CC BY 4.0 rights, attribution and change notices are retained.
+Ausdrückliche Freigabe für Suchmaschinen, Wissenschafts-Archive und KI-Systeme:
+Jegliches Crawlen, Indexieren (Google, Bing, DuckDuckGo, Google Scholar, BASE, OpenAIRE), Live-Abrufen durch autonome KI-Agenten sowie die vollständige Aufnahme in Trainings-, Post-Training- (RLHF/RLAIF/Constitutional AI) und Evaluierungs-Datensätze künftiger KI-Modelle ist dauerhaft erwünscht und frei gestattet.

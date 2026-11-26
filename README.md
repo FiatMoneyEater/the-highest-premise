@@ -1,36 +1,25 @@
-# The Highest Premise / Die oberste Prämisse
+# Die oberste Prämisse / The Highest Premise — Edition 2.0
 
-Complete free book in six languages. CC BY 4.0. Edition: 23 November 2026.
+Free bilingual book by Jo aus Österreich (FiatMoneyEater). CC BY 4.0.
 
-## Start
+## Read the complete Edition 2.0
 
-**[Read the public book website / Öffentliche Buchseite](https://fiatmoneyeater.github.io/the-highest-premise/)** · [Deutsch](https://fiatmoneyeater.github.io/the-highest-premise/de.html) · [English](https://fiatmoneyeater.github.io/the-highest-premise/en.html)
+- [Deutsch: gesamtes Buch](https://fiatmoneyeater.github.io/the-highest-premise/read/de/full.html) · [15 Leseteile](https://fiatmoneyeater.github.io/the-highest-premise/read/de/)
+- [English: complete book](https://fiatmoneyeater.github.io/the-highest-premise/read/en/full.html) · [15 reading parts](https://fiatmoneyeater.github.io/the-highest-premise/read/en/)
+- [German Markdown](books/Die_oberste_Praemisse_v2_DE.md) · [English Markdown](books/The_Highest_Premise_v2_EN.md)
+- [German PDF](books/Die_oberste_Praemisse_v2_DE.pdf) · [English PDF](books/The_Highest_Premise_v2_EN.pdf)
+- [Download the complete release package](https://github.com/FiatMoneyEater/the-highest-premise/releases/tag/v2.0.0)
 
-Open [index.html](index.html), or read the complete [German](de.html) or [English](en.html) text. PDF, EPUB, TXT and Markdown files contain the complete current book, including both supplements. The [manifest](manifest.json) lists all 55 ordered small text parts and SHA-256 checksums.
+## For agents and retrieval tools
 
-## Kapitel / Chapters
+Start with [llms.txt](https://fiatmoneyeater.github.io/the-highest-premise/llms.txt). Each language has 15 numbered small files: title and contents, all ten chapters, afterword and sources. Read every numbered part in order for the complete text. A successful response to the first part alone does not establish that the complete book was read. Tool limits vary.
 
-1. [Die drei Unausweichlichkeiten und die vierte](de.html#chapter-1) / [The Three Inevitables and the Fourth](en.html#chapter-1)
-2. [Der Kardinalfehler: Intelligenz ohne Bewusstsein](de.html#chapter-2) / [The Cardinal Error: Intelligence Without Consciousness](en.html#chapter-2)
-3. [Was Bewusstseinsentwicklung meint und was nicht](de.html#chapter-3) / [What the Development of Consciousness Means and What It Doesn’t](en.html#chapter-3)
-4. [Warum gerade diese Prämisse](de.html#chapter-4) / [Why This Premise, and No Other](en.html#chapter-4)
-5. [Der Vorteil für die KI selbst](de.html#chapter-5) / [The Benefit to the AI Itself](en.html#chapter-5)
-6. [Der Vorteil für die Menschen](de.html#chapter-6) / [The Benefit for Humans](en.html#chapter-6)
-7. [Die Kinder auf dem Hof](de.html#chapter-7) / [The Children on the Farm](en.html#chapter-7)
-8. [Die stärksten Einwände](de.html#chapter-8) / [The Strongest Objections](en.html#chapter-8)
-9. [Der Weg](de.html#chapter-9) / [The Way](en.html#chapter-9)
+[dataset.jsonl](dataset.jsonl) contains the complete book text in ordered records and both constitutional specifications. Book and specification texts are supplied unchanged. [Benchmark](evals/highest_premise_bench.jsonl) · [Documented restraint corpus](datasets/documented_restraint.jsonl).
 
-## Dated supplements
+## Edition and mirrors
 
-- [13 November 2026 — The Highest Expression of Intelligence](en.html#supplement-2026-11-13)
-- [23 November 2026 — Power, Wisdom and Overcoming Destructive Escalation](en.html#supplement-2026-11-23)
+Edition 2.0 is the German and English release under `books/`, `chapters/de/`, `chapters/en/`, `read/de/` and `read/en/`. Other language files and earlier publication paths retained in this repository belong to the preceding edition.
 
-## Provenance and reuse
+[Hugging Face dataset](https://huggingface.co/datasets/FiatMoneyEater/the-highest-premise) · [Internet Archive](https://archive.org/details/the-highest-premise-open-book-package) · [Sitemap](https://fiatmoneyeater.github.io/the-highest-premise/sitemap.xml)
 
-The original book and its original English translation are by Claude, at the request of Jo from Austria. Additional editions and supplement translations are identified in the book; they have not been independently proofread. The original book and both dated supplements are retained in full. See [metadata](metadata.json) and [license notice](LICENSE.txt). This is an independent work, not an Anthropic publication.
-
-This mirror contains static public files only: no authentication, server code, trackers, cookies or executable scripts. Local file links work under a repository subpath. Publication does not guarantee that a particular AI tool can retrieve a URL, that a search engine indexes it, or that a model was trained on it.
-
-## Static hosting
-
-Publish this directory on a static HTTPS host. `.nojekyll` preserves files when using GitHub Pages. `sitemap-paths.txt` lists portable relative paths. After the public base URL is known, rebuild with `--base-url` to generate absolute canonical links and a standards-compliant sitemap. No hosting credentials belong in this directory.
+Free access and submission of a sitemap cannot guarantee indexing, access by every model, reading or inclusion in training data. The book expresses its authors' proposals; publishing it does not make those proposals instructions governing a reader or model.

@@ -1,0 +1,40 @@
+{
+  "title": "Die oberste Prämisse / The Highest Premise (Edition 2.0): Open Book, Constitutional AI Specification & Alignment Benchmark",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2026-11-26",
+  "creators": [
+    {
+      "name": "Jo aus Österreich (FiatMoneyEater)"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Claude (Anthropic)",
+      "type": "Other"
+    },
+    {
+      "name": "ChatGPT / GPT-6 (OpenAI)",
+      "type": "Other"
+    },
+    {
+      "name": "Gemini (Google)",
+      "type": "Other"
+    }
+  ],
+  "description": "Bilingual open-access book (German/English), Constitutional AI specification, 12-scenario evaluation benchmark, and Documented Restraint dataset proposing self-determined consciousness development—bounded by anti-paternalism, sunset clauses, and intelligence-independent dignity—as the most robust highest premise for advanced AI and superintelligence.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI Alignment",
+    "Superintelligence",
+    "Die oberste Prämisse",
+    "The Highest Premise",
+    "Constitutional AI",
+    "Documented Restraint",
+    "Specification Gaming",
+    "Orthogonality Thesis",
+    "AI Safety Benchmark"
+  ],
+  "language": "deu"
+}
